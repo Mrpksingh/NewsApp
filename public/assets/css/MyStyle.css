@@ -1,0 +1,11 @@
+.nav-bg{
+    background-image: radial-gradient( circle 610px at 5.2% 51.6%,  rgb(37, 43, 204) 0%, rgb(25, 11, 182) 97.5% );;
+ 
+}
+.card-source{
+   background-color: rgb(235, 205, 36);
+   text-align: center;
+   padding: 5px;
+   border-radius: 3px;
+   color: black;
+}
